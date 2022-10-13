@@ -1,16 +1,23 @@
-### Hi there 👋
+### Hi there , I'm Yoan Latchere - Latshow 👋
 
-<!--
-**Linedev-Web/Linedev-Web** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 I am always learning new things to improve my skillset, such as vite, VueJS, NPM, tailwindcss
+- 📫 How to reach me: Latchere.y@gmail.com
+- 😄 Pronouns: My Latshow
+- 🎮 I am a fan of video games !
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Languages and Tools:
+PHPStorm
+HTML5
+CSS3
+PHP
+Symfony
+Sass
+JavaScript
+Node.js
+SQL
+MySQL
+MongoDB
+Git
+GitHub
+HTML5
