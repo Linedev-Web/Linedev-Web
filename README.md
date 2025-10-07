@@ -11,7 +11,7 @@
 💡 Always exploring new technologies to push my creativity further.  
 🔥 Passionate about building modern, efficient, and beautiful web applications.  
 🎮 Gamer at heart, curious by nature, and a lifelong learner.  
-💬 Ask me about **Laravel, Vue, TailwindCSS, Node.js, or modern web architecture.**  
+💬 Ask me about **Laravel, ReactJs, TailwindCSS, Node.js, or modern web architecture.**  
 📫 Reach me at **Latchere.y@gmail.com**
 
 ---
