@@ -38,9 +38,11 @@
 
 ### 🧩 Featured Projects
 
+💼 **[LineDev.fr](https://linedev.fr)** – My freelance developer portfolio, showcasing my latest work and expertise  
+🎮 **[ServeurListe.com](https://serveurliste.com)** – Platform to share and promote your game servers with an elegant UI  
 🚀 **[ZodPress](https://zodpress.com)** – A modern Azuriom theme loved by 100+ users  
 💼 **Laravel Email Manager** – Customizable email template system with Livewire Volt  
-📰 **Drupal 10 News Site** – Clean and responsive frontend foundation for news publishing  
+
 
 > I build tools and interfaces that feel smooth, modern, and enjoyable to use.  
 > My focus? Clean design, performance, and developer happiness ❤️
@@ -53,15 +55,6 @@
   <a href="mailto:Latchere.y@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="35" /></a>
   <a href="https://www.linkedin.com/in/yoan-latchere" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" height="35" /></a>
   <a href="https://discord.gg/wmYrG2c" target="_blank"><img src="https://skillicons.dev/icons?i=discord" height="35" /></a>
-</p>
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=latshow&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=latshow&theme=radical" />
 </p>
 
 ---
