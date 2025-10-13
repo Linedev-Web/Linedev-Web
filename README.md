@@ -16,15 +16,6 @@
 
 ---
 
-### 🧠 Currently Learning & Exploring
-
-- ⚡ **React Js + Vite** for blazing-fast frontends  
-- 🎨 **TailwindCSS + DaisyUI/MaryUI** for next-gen UI design  
-- 🧩 **Laravel 12 + Livewire Volt** for reactive PHP apps  
-- 🧠 **AI tools & Automation** for smarter development workflows  
-
----
-
 ### 🛠️ Tech Stack
 
 <p align="center">
